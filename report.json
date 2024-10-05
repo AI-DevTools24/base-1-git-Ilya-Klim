@@ -1,10 +1,12 @@
 {
     "grade": 0,
     "repo": "base-1-git-Ilya-Klim",
-    "branch_exists": false,
+    "branch_exists": true,
     "pull_request_exists": false,
-    "license_exists": false,
-    "gitignore_exists": false,
+    "license_exists": true,
+    "gitignore_exists": true,
     "readme_exists": true,
-    "email_exists": false
+    "email_exists": true,
+    "email": "Klimasch2002@gmail.com",
+    "SHA1": "d60e938cbf3996d930221fe96cbbe691a71c5347"
 }
