@@ -1,8 +1,10 @@
 {
-    "grade": 0,
+    "grade": 10.0,
+    "fine": 1,
+    "seconds_after_deadline": 6638.0,
     "repo": "base-1-git-Ilya-Klim",
     "branch_exists": true,
-    "pull_request_exists": false,
+    "pull_request_exists": true,
     "license_exists": true,
     "gitignore_exists": true,
     "readme_exists": true,
